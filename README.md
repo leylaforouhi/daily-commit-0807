@@ -1,4 +1,4 @@
-def sort_numbers(numbers):
+def sort_number(numbers):
     return sorted(numbers)
 
 if __name__ == "__main__":
